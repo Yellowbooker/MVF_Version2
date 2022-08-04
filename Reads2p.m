@@ -1,0 +1,13 @@
+function [freq,S11,S12,S22]=Reads2p()
+FILE_NAME=input('File name (.s2p): ','s');
+S= sparameters(FILE_NAME);
+freq = S.Frequencies;
+S11 = rfparam(S,1,1);
+S12 = rfparam(S,1,2);
+S22 = rfparam(S,2,2);
+% s11_data(:) = s11;
+% s12_data(:) = s12;
+% s22_data(:) = s22;
+% S11=s11_data(:);
+% S12=s12_data(:);
+% S22=s22_data(:);
