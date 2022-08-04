@@ -8,4 +8,6 @@ Please run the code in MATLAB newer than R2018b.
 
 References：
 1. Circuit Model Extraction of Parallel-Connected Dual-Passband Coupled-Resonator Filters (for fit Y-parameters with rational functions as pole-residue form)
-2. Phase De-Embedding of Narrowband Coupled-Resonator Networks by Vector Fitting (for phase de-embedding of the S-parameters)
+2. Phase De-Embedding of Narrowband Coupled-Resonator Networks by Vector Fitting (for phase de-embedding of S-parameters)
+
+Date: 04/08/2022 DD/MM/YYYY
