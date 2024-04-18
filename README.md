@@ -1,7 +1,7 @@
 # MVF_Version2
 MVF (model based vector fitting) is an analytical method for coupling matrix extraction of microwave filters. Version 2 modifies the code to make it faster and more reasonable. 
 
-!If needed, we recommend you use MVF in https://github.com/Yellowbooker/Coupling-Matrix-Extraction-Method-With-High-Order-Transmission-Coefficient-Fitting-Strategy
+! If needed, we recommend you use MVF in https://github.com/Yellowbooker/Coupling-Matrix-Extraction-Method-With-High-Order-Transmission-Coefficient-Fitting-Strategy
 
 Please run the code in MATLAB newer than R2018b.
 1. Run MVF_main.m;
